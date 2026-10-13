@@ -1,0 +1,27 @@
+---
+title: "case_study"
+author: "Lauren Holley"
+date: "2026-10-13"
+output: github_document
+---
+
+```{r message=FALSE}
+library(tidyverse)
+```
+
+```{r}
+library(p8105.datasets)
+
+data("nyc_airbnb")
+```
+
+## Some questions for consideration
+* Where are the most expensive airbnbs in NYC?
+* Which neighborhood has the highest concentration?
+* Which is the cheapest?
+
+
+```{r}
+
+```
+
